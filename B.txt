@@ -1,0 +1,11 @@
+this is the file for writing purpose
+this is the file to perform read operation
+this is line 2
+this is line 3
+this is line 4this is the file to perform read operation
+this is line 2
+this is line 3
+this is line 4this is the file to perform read operation
+this is line 2
+this is line 3
+this is line 4
