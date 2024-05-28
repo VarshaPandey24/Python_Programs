@@ -10,6 +10,9 @@ designed to be self-contained and easy to understand, making it a great learning
 Features
 
 Lists: Programs that demonstrate list operations such as indexing, slicing, appending, and more.
+
 Tuples: Examples of tuple usage, immutability, and common operations.
+
 Dictionaries: Scripts showcasing dictionary creation, key-value manipulation, and dictionary methods.
+
 OOP: Programs that illustrate classes, objects, inheritance, polymorphism, and other OOP concepts.
